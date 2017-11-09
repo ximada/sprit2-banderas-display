@@ -1,0 +1,14 @@
+
+div {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+  .bandera-amarilla {
+    background-color: #F7B617;
+  }
+.bandera-gris {
+  background-color: #2B2B2B;
+  color: #FFF
+}
